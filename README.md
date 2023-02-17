@@ -1,6 +1,6 @@
 <div align="center">
   <img height="auto" 
-       style="width: 60%;
+       style="width: 80%;
               @media all and (max-width: 600px){
               width: 100%;
               "
