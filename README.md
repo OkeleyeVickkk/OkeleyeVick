@@ -25,7 +25,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 * ⚡  I love learning new frameworks and immediately working on something
 * 😊  I love animations a lotttt
 * 🎶  I love music alot too
-* 😃  Above I ❤ what I do
+* 😃  Above all I ❤ what I do
 
 ###
 <br/>
