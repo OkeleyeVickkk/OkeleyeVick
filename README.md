@@ -15,7 +15,6 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 ###
 
 
-* 🌍  I'm based in Nigeria
 * 📚  Currently in pursuit of a Petroleum and Gas B.Engr Degree
 * 🖥️  Working on my portfolio and other projects
 * ✉️  You can contact me at [justusofnigeria@gmail.com](mailto:justusofnigeria@gmail.com)
