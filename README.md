@@ -21,7 +21,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 * 🚀  I'm currently working on [A Language Translator using React]
 * 🧠  Currently learning GSAP, Typescript and Nextjs in sequence
 * 🤝  I'm open to collaborating on Open Source projects
-* ⚡  I love learning new frameworks and immediately working on something
+* ⚡  I love learning tech related stuffs
 * 😊  I love animations a lotttt
 * 🎶  I love music alot too
 * 😃  Above all I ❤ what I do
