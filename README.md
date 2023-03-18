@@ -15,11 +15,11 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 ###
 
 
-* 📚  Currently in pursuit of a Petroleum and Gas B.Engr Degree
-* 🖥️  Working on my portfolio and other projects
+* 📚  Currently in pursuit of a Petroleum and Gas 
+* 🖥️  Working on my portfolio soon and other projects
 * ✉️  You can contact me at [justusofnigeria@gmail.com](mailto:justusofnigeria@gmail.com)
-* 🚀  I'm currently working on [A Language Translator using React] <!--(http://okeleyevictor-portfolio.netlify.app/) -->
-* 🧠  I'm learning React, GSAP, Typescript and Nextjs in sequence
+* 🚀  I'm currently working on [A Language Translator using React]
+* 🧠  Currently learning GSAP, Typescript and Nextjs in sequence
 * 🤝  I'm open to collaborating on Open Source projects
 * ⚡  I love learning new frameworks and immediately working on something
 * 😊  I love animations a lotttt
