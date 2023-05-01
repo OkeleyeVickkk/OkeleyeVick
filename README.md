@@ -3,7 +3,7 @@
        style="width: 80%;
               @media all and (max-width: 600px){
               width: 100%;
-              "
+      "
        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faptitude.seedinfotech.com%2Fwp-content%2Fuploads%2F2018%2F10%2Ftraining1.gif&f=1&nofb=1&ipt=ef62fc0376dd142ce89cd1851a02c423f99209abe63aceafdc9889571a0edcb8&ipo=images"  />
 </div>
 
