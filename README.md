@@ -82,9 +82,9 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 ###
 
-<br clear="both">
 
-<a href="http://www.github.com/OkeleyeVick"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=OkeleyeVick&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OkeleyeVick&&theme=react-dark)](https://github.com/OkeleyeVick/github-readme-activity-graph)
+
 
 ###
 
