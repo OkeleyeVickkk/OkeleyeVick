@@ -13,9 +13,8 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 * 📚  Currently in pursuit of a Petroleum and Gas Degree 
 * 🖥️  Working on my portfolio soon and other projects
 * ✉️  You can contact me at [justusofnigeria@gmail.com](mailto:justusofnigeria@gmail.com)
-* 🤝  I'm open to collaborating on Open Source projects
-* ⚡  I am getting into backend soon, and about to improve my logical aspect to solve more problems and create solutions
-* ⚡  I loveeee reading the React documentation 
+* 🤝  I'm open to collaborating on Open Source project
+* ⚡  I loveeee reading the documentation 
 * 😊  I love animations a lotttt
 * 🎶  I love music alot too
 * 😃  Above all I ❤ what I do
