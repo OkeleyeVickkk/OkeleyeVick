@@ -27,7 +27,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 ###
 <div align="center">
   <a href="https://vickkk-portfolio.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,bootstrap)](https://skillicons.dev)"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap)](https://skillicons.dev)"/>
   <a/>
 </div>
 
